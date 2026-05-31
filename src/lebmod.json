@@ -1,0 +1,17 @@
+{
+    "name": "Example LEM Map",
+    "description": "This is an example map, your description goes here!",
+    "authors": "DBTDerpbox",
+    "version": "1",
+    "id": "examplemap",
+    "type": "map",
+    "pack": "vanilla",
+    "hassmall": false,
+    "haslarge": false,
+    "haslargeplus": true,
+    "hasremastered": false,
+    "centercoords_small": "0 0 0",
+    "centercoords_large": "0 0 0",
+    "centercoords_largeplus": "0 0 0",
+    "centercoords_remastered": "0 0 0"
+}
